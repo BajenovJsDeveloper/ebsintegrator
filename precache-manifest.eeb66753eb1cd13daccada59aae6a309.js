@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "464c6e0e0d31a60bd5f4fbf0ebce34e8",
+    "revision": "ab248a62026ee39bb1f4cc692de1f00a",
     "url": "/ebsintegrator/index.html"
   },
   {
-    "revision": "0e7325659c8958b9effb",
-    "url": "/ebsintegrator/static/css/main.2d3d4d91.chunk.css"
+    "revision": "c14173a4160456269918",
+    "url": "/ebsintegrator/static/css/main.8719a6bf.chunk.css"
   },
   {
-    "revision": "2b8aef1d84aecae915dc",
-    "url": "/ebsintegrator/static/js/2.46e07739.chunk.js"
+    "revision": "ac3da30cc39b19de89bb",
+    "url": "/ebsintegrator/static/js/2.acb8b8d0.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/ebsintegrator/static/js/2.46e07739.chunk.js.LICENSE.txt"
+    "url": "/ebsintegrator/static/js/2.acb8b8d0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0e7325659c8958b9effb",
-    "url": "/ebsintegrator/static/js/main.b998a23e.chunk.js"
+    "revision": "c14173a4160456269918",
+    "url": "/ebsintegrator/static/js/main.347d64b4.chunk.js"
   },
   {
     "revision": "5972bc346b9c19b7cbd9",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e019bf2d4a981a6fa91c3325dd77a5b4",
     "url": "/ebsintegrator/static/media/logo-ebs.e019bf2d.png"
+  },
+  {
+    "revision": "b2f62e2028e9bcc097cabba1bd8ad215",
+    "url": "/ebsintegrator/static/media/nature.b2f62e20.jpg"
   },
   {
     "revision": "39c432a0ca9f5fa0fa4ca2c1cdfcd6b7",

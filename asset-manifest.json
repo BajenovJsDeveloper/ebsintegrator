@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/ebsintegrator/static/css/main.2d3d4d91.chunk.css",
-    "main.js": "/ebsintegrator/static/js/main.b998a23e.chunk.js",
-    "main.js.map": "/ebsintegrator/static/js/main.b998a23e.chunk.js.map",
+    "main.css": "/ebsintegrator/static/css/main.8719a6bf.chunk.css",
+    "main.js": "/ebsintegrator/static/js/main.347d64b4.chunk.js",
+    "main.js.map": "/ebsintegrator/static/js/main.347d64b4.chunk.js.map",
     "runtime-main.js": "/ebsintegrator/static/js/runtime-main.5d71f822.js",
     "runtime-main.js.map": "/ebsintegrator/static/js/runtime-main.5d71f822.js.map",
-    "static/js/2.46e07739.chunk.js": "/ebsintegrator/static/js/2.46e07739.chunk.js",
-    "static/js/2.46e07739.chunk.js.map": "/ebsintegrator/static/js/2.46e07739.chunk.js.map",
+    "static/js/2.acb8b8d0.chunk.js": "/ebsintegrator/static/js/2.acb8b8d0.chunk.js",
+    "static/js/2.acb8b8d0.chunk.js.map": "/ebsintegrator/static/js/2.acb8b8d0.chunk.js.map",
     "index.html": "/ebsintegrator/index.html",
-    "precache-manifest.200647e7a1f0253121d557eceb3987e3.js": "/ebsintegrator/precache-manifest.200647e7a1f0253121d557eceb3987e3.js",
+    "precache-manifest.eeb66753eb1cd13daccada59aae6a309.js": "/ebsintegrator/precache-manifest.eeb66753eb1cd13daccada59aae6a309.js",
     "service-worker.js": "/ebsintegrator/service-worker.js",
-    "static/css/main.2d3d4d91.chunk.css.map": "/ebsintegrator/static/css/main.2d3d4d91.chunk.css.map",
-    "static/js/2.46e07739.chunk.js.LICENSE.txt": "/ebsintegrator/static/js/2.46e07739.chunk.js.LICENSE.txt",
+    "static/css/main.8719a6bf.chunk.css.map": "/ebsintegrator/static/css/main.8719a6bf.chunk.css.map",
+    "static/js/2.acb8b8d0.chunk.js.LICENSE.txt": "/ebsintegrator/static/js/2.acb8b8d0.chunk.js.LICENSE.txt",
     "static/media/logo-ebs.png": "/ebsintegrator/static/media/logo-ebs.e019bf2d.png",
+    "static/media/nature.jpg": "/ebsintegrator/static/media/nature.b2f62e20.jpg",
     "static/media/post.svg": "/ebsintegrator/static/media/post.39c432a0.svg",
     "static/media/taged.svg": "/ebsintegrator/static/media/taged.a9a979ce.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5d71f822.js",
-    "static/js/2.46e07739.chunk.js",
-    "static/css/main.2d3d4d91.chunk.css",
-    "static/js/main.b998a23e.chunk.js"
+    "static/js/2.acb8b8d0.chunk.js",
+    "static/css/main.8719a6bf.chunk.css",
+    "static/js/main.347d64b4.chunk.js"
   ]
 }
